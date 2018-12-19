@@ -1,2 +1,3 @@
 # hello-world
-Just a  repository
+
+I hope you can give me more advice and make progress together!
